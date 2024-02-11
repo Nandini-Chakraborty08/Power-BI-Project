@@ -1,1 +1,2 @@
 # Power-BI-Project
+Retail Store Business Analysis: With data set of a Grocery Store, built data model and prepared report using visualizations like bookmarks, parameters, matrix, KPI cards, Gauge Chart and others to get business intelligence. Insights out of the sales analysis dashboard showed profit in business, insights of product analysis and return analysis dashboards are for growing the business more.
